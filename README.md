@@ -6,9 +6,13 @@
     </a> 
 </p>  
 
+
 <h3 align="center">
     A passionate web developer from Tunisia with a good understanding of web technologies and currently exploring AI to integrate innovative AI solutions into web applications.
 </h3>  
+<p align="center">
+    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</p>
 
 <hr>  
 
@@ -83,4 +87,4 @@
 <p align="center">  
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />  
     <img src="https://forthebadge.com/images/badges/open-source.svg" />  
-</p>  
+</p>
