@@ -1,4 +1,4 @@
-=<h1 align="center"> Hi, I'm Anas Mnasri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>  
+<h1 align="center"> Hi, I'm Anas Mnasri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>  
 
 <p align="center">   
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,10 +6,14 @@
     </a> 
 </p>  
 
-
 <h3 align="center">
     A passionate web developer from Tunisia with a good understanding of web technologies and currently exploring AI to integrate innovative AI solutions into web applications.
 </h3>  
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anasmnasri2023&label=Profile%20views&color=0e75b6&style=flat" alt="anasmnasri2023" />
+</p>
+
 <p align="center">
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
