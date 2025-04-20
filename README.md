@@ -18,12 +18,6 @@
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chahe-dridi/chahe-dridi/output/github-snake.svg" />
-</picture>
-
 <hr>  
 
 <h2 align="center">
