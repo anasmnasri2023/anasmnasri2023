@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 on:
   schedule:
-    - cron: "0 0 * * *"  # Exécuter tous les jours à minuit
-  workflow_dispatch:     # Permet de déclencher manuellement le workflow
+    - cron: "0 0 * * *"  # Run every day at midnight
+  workflow_dispatch:     # Allow manual workflow trigger
 jobs:
   generate:
     runs-on: ubuntu-latest
