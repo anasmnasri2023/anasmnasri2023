@@ -18,6 +18,10 @@
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
 
+<div align="center">
+  <img src="https://github.com/anasmnasri2023/anasmnasri2023/blob/output/github-snake.svg" alt="Snake animation" />
+</div>
+
 <hr>  
 
 <h2 align="center">
