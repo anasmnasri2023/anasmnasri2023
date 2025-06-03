@@ -76,13 +76,13 @@
 
 <p align="center">  
     <a href="https://www.linkedin.com/in/anasmnasri/" target="_blank">  
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Anas+Mnasri&size=square" alt="linkedin">
     </a>  
     <a href="https://www.facebook.com/share/16JnEEenY4/" target="_blank">  
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>  
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Aness+Mnassri&size=square" alt="facebook">
     </a>  
     <a href="https://www.instagram.com/anessmnassri/" target="_blank">  
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>  
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@Aness_Mnassri&size=square" alt="Instagram">
     </a>  
 </p>  
 
