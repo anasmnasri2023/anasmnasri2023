@@ -82,7 +82,7 @@
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Aness+Mnassri&size=square" alt="facebook">
     </a>  
     <a href="https://www.instagram.com/anessmnassri/" target="_blank">  
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@Aness_Mnassri&size=square" alt="Instagram">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@anessmnassri&size=square" alt="Instagram">
     </a>  
 </p>  
 
