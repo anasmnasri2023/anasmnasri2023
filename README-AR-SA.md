@@ -18,15 +18,33 @@
     <img alt="برمجة" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
 
-<div align="center" style="text-align: center;">
+<div align="center">
 
-| اختر لغتك                    | الأعلام                                                                                |
-| ----------------------------- | -------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)          | <img width="5%" alt="علم الولايات المتحدة" title="علم الولايات المتحدة (USA)" src="./assets/images/flags/USA.png" />         |
-| [FR-FRA](./README-FR-FRA.md)  | <img width="5%" alt="علم فرنسا" title="علم فرنسا (FR)" src="./assets/images/flags/france.png" />                       |
-| [AR-SA](./README-AR-SA.md)    | <img width="5%" alt="علم السعودية" title="علم المملكة العربية السعودية" src="./assets/images/flags/saudi_ arabia.jpg" /> |
+<table>
+  <thead>
+    <tr>
+      <th>اختر لغتك</th>
+      <th>الأعلام</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./README.md">EN-US</a></td>
+      <td><img width="30" alt="علم الولايات المتحدة" title="علم الولايات المتحدة (USA)" src="./assets/images/flags/USA.png" /></td>
+    </tr>
+    <tr>
+      <td><a href="./README-FR-FRA.md">FR-FRA</a></td>
+      <td><img width="30" alt="علم فرنسا" title="علم فرنسا (FR)" src="./assets/images/flags/france.png" /></td>
+    </tr>
+    <tr>
+      <td><a href="./README-AR-SA.md">AR-SA</a></td>
+      <td><img width="30" alt="علم السعودية" title="علم المملكة العربية السعودية" src="./assets/images/flags/saudi_ arabia.jpg" /></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 <hr>  
 
