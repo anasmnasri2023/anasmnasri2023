@@ -1,10 +1,11 @@
 <h1 align="center"> مرحباً، أنا أنس منصري! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>  
 
 <p align="center">   
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=مهندس+برمجيات+طموح;مطور+فول+ستاك+مبدع;مهتم+بتقنيات+الذكاء+الاصطناعي+الحديثة&width=500&height=45">
-    </a> 
-</p>  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=مهندس+برمجيات+طموح;مطور+فول+ستاك+مبدع;مهتم+بتقنيات+الذكاء+الاصطناعي+الحديثة&center=true&width=500&height=45">
+  </a> 
+</p>
+  
 
 <h3 align="center">
     مطور ويب متحمس من تونس مع فهم جيد لتقنيات الويب وأستكشف حالياً الذكاء الاصطناعي لدمج حلول الذكاء الاصطناعي المبتكرة في تطبيقات الويب.
