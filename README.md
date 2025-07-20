@@ -17,15 +17,33 @@
 <p align="center">
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
-<div align="center" style="text-align: center;">
+<div align="center">
 
-| Choose your language           | Flags                                                                                  |
-| ----------------------------- | -------------------------------------------------------------------------------------- |
-| [EN-US](./README.md)          | <img width="5%" alt="USA Flag" title="United States Flag (USA)" src="./assets/images/flags/USA.png" />         |
-| [FR-FRA](./README-FR-FRA.md)  | <img width="5%" alt="France Flag" title="France Flag (FR)" src="./assets/images/flags/france.png" />           |
-| [AR-SA](./README-AR-SA.md)    | <img width="5%" alt="Saudi Flag" title="Saudi Arabia Flag" src="./assets/images/flags/saudi_ arabia.jpg" />     |
+<table>
+  <thead>
+    <tr>
+      <th style="font-size:14px">Choose your language</th>
+      <th style="font-size:14px">Flags</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./README.md">EN-US</a></td>
+      <td><img width="30" alt="USA Flag" title="United States Flag (USA)" src="./assets/images/flags/USA.png" /></td>
+    </tr>
+    <tr>
+      <td><a href="./README-FR-FRA.md">FR-FRA</a></td>
+      <td><img width="30" alt="France Flag" title="France Flag (FR)" src="./assets/images/flags/france.png" /></td>
+    </tr>
+    <tr>
+      <td><a href="./README-AR-SA.md">AR-SA</a></td>
+      <td><img width="30" alt="Saudi Flag" title="Saudi Arabia Flag" src="./assets/images/flags/saudi_ arabia.jpg" /></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 <hr>  
 
