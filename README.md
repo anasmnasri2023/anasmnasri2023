@@ -1,10 +1,11 @@
 <h1 align="center"> Hi, I'm Anas Mnasri! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>  
 
 <p align="center">   
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Engineering+Student;Full-Stack+Developer;AI+Enthusiast¢er=true&width=500&height=45">
-    </a> 
-</p>  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Engineering+Student;Full-Stack+Developer;AI+Enthusiast&center=true&width=500&height=45">
+  </a> 
+</p>
+
 
 <h3 align="center">
     A passionate web developer from Tunisia with a good understanding of web technologies and currently exploring AI to integrate innovative AI solutions into web applications.
