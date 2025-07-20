@@ -2,7 +2,7 @@
 
 <p align="center">   
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Étudiant+en+Développement+Web;Développeur+Full-Stack;Passionné+d'Intelligence+Artificielle&center=true&width=600&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Étudiant+en+Développement+Web;Développeur+Full-Stack;Passionné+d'Intelligence+Artificielle¢er=true&width=600&height=45">
     </a> 
 </p>  
 
@@ -17,6 +17,16 @@
 <p align="center">
     <img alt="Programmation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
+
+<div align="center" style="text-align: center;">
+
+| Choisissez votre langue       | Drapeaux                                                                               |
+| ----------------------------- | -------------------------------------------------------------------------------------- |
+| [EN-US](./README.md)          | <img width="5%" alt="Drapeau USA" title="Drapeau des États-Unis (USA)" src="./assets/images/flags/USA.png" />         |
+| [FR-FRA](./README-FR-FRA.md)  | <img width="5%" alt="Drapeau France" title="Drapeau de la France (FR)" src="./assets/images/flags/france.png" />       |
+| [AR-SA](./README-AR-SA.md)    | <img width="5%" alt="Drapeau Arabie Saoudite" title="Drapeau de l'Arabie Saoudite" src="./assets/images/flags/saudi_ arabia.jpg" /> |
+
+</div>
 
 <hr>  
 
@@ -91,4 +101,8 @@
 <p align="center">  
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />  
     <img src="https://forthebadge.com/images/badges/open-source.svg" />  
+</p>  
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
