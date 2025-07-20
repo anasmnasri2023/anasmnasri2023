@@ -2,7 +2,7 @@
 
 <p align="center">   
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Engineering+Student;Full-Stack+Developer;AI+Enthusiast&center=true&width=500&height=45">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development+Engineering+Student;Full-Stack+Developer;AI+Enthusiast¢er=true&width=500&height=45">
     </a> 
 </p>  
 
@@ -91,4 +91,18 @@
 <p align="center">  
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" />  
     <img src="https://forthebadge.com/images/badges/open-source.svg" />  
+</p>  
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+<div align="center" style="text-align: center;">
+
+| Choose your language           | Flags                                                                                  |
+| ----------------------------- | -------------------------------------------------------------------------------------- |
+| [EN-US](./README.md)          | <img width="5%" alt="USA Flag" title="United States Flag (USA)" src="./assets/images/flags/USA.png" />         |
+| [FR-FRA](./README-FR-FRA.md)  | <img width="5%" alt="France Flag" title="France Flag (FR)" src="./assets/images/flags/france.png" />           |
+| [AR-SA](./README-AR-SA.md)    | <img width="5%" alt="Saudi Flag" title="Saudi Arabia Flag" src="./assets/images/flags/saudi_ arabia.jpg" />     |
+
+</div>
