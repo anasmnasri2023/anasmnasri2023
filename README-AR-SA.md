@@ -43,7 +43,11 @@
     </tr>
   </tbody>
 </table>
+<h2 align="center">🐍 رسم متحرك للثعبان على GitHub</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anasmnasri2023/anasmnasri2023/output/ocean.gif" alt="GitHub Snake Animation">
+</p>
 </div>
 
 
