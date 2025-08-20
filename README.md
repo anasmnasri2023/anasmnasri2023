@@ -43,6 +43,11 @@
   </tbody>
 </table>
 
+<h2 align="center">🐍 GitHub Snake Animation</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anasmnasri2023/anasmnasri2023/output/ocean.gif" alt="GitHub Snake Animation">
+</p>
 </div>
 
 
