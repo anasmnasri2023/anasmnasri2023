@@ -1,17 +1,33 @@
 name: Generate Snake
+
 on:
   schedule:
-    - cron: '0 0 * * *' # Exécute quotidiennement à minuit
+    - cron: "0 0 * * *"   # tous les jours à 00:00 UTC
   workflow_dispatch:
   push:
     branches:
       - main
+      - master
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: anasmnasri2023
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit & push SVGs
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/*.svg"
+          message: "chore: update snake animation"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
