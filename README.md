@@ -54,7 +54,7 @@
 <hr>  
 
 <h2 align="center">
-    <img src="http://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> Github Stats 
+    <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> Github Stats 
 </h2>  
 
 <p align="center">
@@ -64,11 +64,11 @@
 </p>  
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasmnasri2023&theme=monokai&utcOffset=1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasmnasri2023&theme=monokai&utcOffset=1">
 </p>  
 
 <h2 align="center">
