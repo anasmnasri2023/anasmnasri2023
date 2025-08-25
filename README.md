@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><a href="./README-AR-SA.md">AR-SA</a></td>
-      <td><img width="30" alt="Saudi Flag" title="Saudi Arabia Flag" src="./assets/images/flags/saudi_arabia.jpg" /></td>
+      <td><img width="30" alt="Saudi Flag" title="Saudi Arabia Flag" src="./assets/images/flags/saudi_ arabia.jpg" /></td>
     </tr>
   </tbody>
 </table>
