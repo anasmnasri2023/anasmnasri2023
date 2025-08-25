@@ -6,7 +6,6 @@
   </a> 
 </p>
 
-
 <h3 align="center">
     A passionate web developer from Tunisia with a good understanding of web technologies and currently exploring AI to integrate innovative AI solutions into web applications.
 </h3>  
@@ -18,6 +17,7 @@
 <p align="center">
     <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
+
 <div align="center">
 
 <table>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td><a href="./README-AR-SA.md">AR-SA</a></td>
-      <td><img width="30" alt="Saudi Flag" title="Saudi Arabia Flag" src="./assets/images/flags/saudi_ arabia.jpg" /></td>
+      <td><img width="30" alt="Saudi Flag" title="Saudi Arabia Flag" src="./assets/images/flags/saudi_arabia.jpg" /></td>
     </tr>
   </tbody>
 </table>
@@ -50,18 +50,17 @@
 </p>
 </div>
 
-
 <hr>  
 
 <h2 align="center">
-    <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> Github Stats 
+    <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> GitHub Stats 
 </h2>  
 
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=anasmnasri2023&theme=monokai">
-    </a> 
-</p>  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anasmnasri2023&show_icons=true&theme=monokai" alt="Anas Mnasri's GitHub stats" />
+  </a>
+</p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasmnasri2023&theme=monokai">
@@ -109,13 +108,13 @@
 
 <p align="center">  
     <a href="https://www.linkedin.com/in/anasmnasri/" target="_blank">  
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Anas+Mnasri&size=square" alt="linkedin">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanasmnasri%2F&subtitle=@Anas+Mnasri&size=square" alt="linkedin">
     </a>  
     <a href="https://www.facebook.com/share/16JnEEenY4/" target="_blank">  
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Aness+Mnassri&size=square" alt="facebook">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fanasmnasri2023&subtitle=@Anas+Mnassri&size=square" alt="facebook">
     </a>  
     <a href="https://www.instagram.com/anessmnassri/" target="_blank">  
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@anessmnassri&size=square" alt="Instagram">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fanessmnassri%2F&subtitle=@anessmnassri&size=square" alt="Instagram">
     </a>  
 </p>  
 
@@ -129,4 +128,3 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
