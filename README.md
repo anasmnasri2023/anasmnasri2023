@@ -69,6 +69,13 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasmnasri2023&theme=monokai">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasmnasri2023&theme=monokai&utcOffset=1">
 </p>  
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 <h2 align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> My Skills
