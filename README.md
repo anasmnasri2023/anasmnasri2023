@@ -75,7 +75,16 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=anasmnasri2023&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </p>
-
+<h2 align="center">
+    🏅 Certifications & Licenses
+</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/AWS-Academy_Graduate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certification">
+    <img src="https://img.shields.io/badge/AWS-Certification_Course-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Intellipaat">
+    <img src="https://img.shields.io/badge/Angular-Certified-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Certification">
+    <img src="https://img.shields.io/badge/Hashgraph-Developer-000000?style=for-the-badge&logo=hedera&logoColor=white" alt="Hashgraph Developer">
+    <img src="https://img.shields.io/badge/Full_Stack_JS-Certified-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Stack JS">
+</p>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
