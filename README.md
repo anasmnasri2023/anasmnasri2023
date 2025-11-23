@@ -73,7 +73,7 @@
 </p>  
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=anasmnasri2023&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=anasmnasri2023&theme=darkhub&margin-w=4" alt="GitHub Trophies">
 </p>
 <h2 align="center">
     🏅 Certifications & Licenses
