@@ -71,6 +71,26 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasmnasri2023&theme=monokai">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasmnasri2023&theme=monokai&utcOffset=1">
 </p>  
+<h2 align="center">🏆 جوائز GitHub</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=anasmnasri2023&theme=darkhub&margin-w=4" alt="جوائز GitHub">
+</p>
+
+<h2 align="center">
+    🏅 الشهادات والتراخيص
+</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/AWS-خريج_الأكاديمية-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="شهادة AWS">
+    <img src="https://img.shields.io/badge/AWS-دورة_الشهادة-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Intellipaat">
+    <img src="https://img.shields.io/badge/Angular-معتمد-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="شهادة Angular">
+    <img src="https://img.shields.io/badge/Hashgraph-مطور-000000?style=for-the-badge&logo=hedera&logoColor=white" alt="مطور Hashgraph">
+    <img src="https://img.shields.io/badge/Full_Stack_JS-معتمد-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Stack JS">
+</p>
+</p>
+<h2 align="center">✍️ اقتباس مطور عشوائي</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="اقتباس مطور عشوائي">
+</p>
 
 <h2 align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> مهاراتي
