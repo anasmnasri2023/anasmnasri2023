@@ -13,8 +13,7 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=anasmnasri2023&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="anasmnasri2023" />
-        <img src="https://img.shields.io/badge/Âge-23-blue" alt="Âge" />
-
+    <img src="https://img.shields.io/badge/Âge-23-blue" alt="Âge" />
 </p>
 
 <p align="center">
@@ -45,13 +44,13 @@
     </tr>
   </tbody>
 </table>
+
 <h2 align="center">🐍 Animation de serpent GitHub</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anasmnasri2023/anasmnasri2023/output/ocean.gif" alt="GitHub Snake Animation">
 </p>
 </div>
-
 
 <hr>  
 
@@ -61,23 +60,46 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=anasmnasri2023&show_icons=true&theme=monokai" alt="Statistiques GitHub d'Anas Mnasri " />
+    <img src="https://github-readme-stats.vercel.app/api?username=anasmnasri2023&show_icons=true&theme=monokai" alt="Statistiques GitHub d'Anas Mnasri" />
   </a>
 </p>  
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasmnasri2023&theme=monokai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasmnasri2023&theme=monokai&utcOffset=1">
-</p>  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasmnasri2023&theme=monokai">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasmnasri2023&theme=monokai&utcOffset=1">
+</p>
+
+<h2 align="center">🏆 Trophées GitHub</h2>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=anasmnasri2023&theme=darkhub&margin-w=4" alt="Trophées GitHub">
+</p>
+
+<h2 align="center">
+    🏅 Certifications et Licences
+</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/AWS-Diplômé_de_l'Académie-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Certification AWS">
+    <img src="https://img.shields.io/badge/AWS-Cours_de_Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Intellipaat">
+    <img src="https://img.shields.io/badge/Angular-Certifié-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Certification Angular">
+    <img src="https://img.shields.io/badge/Hashgraph-Développeur-000000?style=for-the-badge&logo=hedera&logoColor=white" alt="Développeur Hashgraph">
+    <img src="https://img.shields.io/badge/Full_Stack_JS-Certifié-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Full Stack JS">
+</p>
+
+<h2 align="center">✍️ Citation de Développeur Aléatoire</h2>
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citation de Développeur Aléatoire">
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2 align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Mes Compétences
 </h2>  
 
-<h3 align="center">💪 Langages de Programmation</h3>  
+<h3 align="center">Langages de Programmation</h3>  
 <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -89,7 +111,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>  
 
-<h3 align="center">💪 Développement Frontend</h3>  
+<h3 align="center">Développement Frontend</h3>  
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -97,7 +119,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </p>  
 
-<h3 align="center">💪 Développement Backend</h3>  
+<h3 align="center">Développement Backend</h3>  
 <p align="center">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092D1F.svg?style=for-the-badge&logo=django&logoColor=white">
