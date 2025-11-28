@@ -13,6 +13,8 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=anasmnasri2023&label=مشاهدات%20الملف%20الشخصي&color=0e75b6&style=flat" alt="anasmnasri2023" />
+<img src="https://img.shields.io/badge/العمر-23-blue" alt="العمر" />
+
 </p>
 
 <p align="center">
