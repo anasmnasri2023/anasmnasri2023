@@ -13,7 +13,7 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=anasmnasri2023&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="anasmnasri2023" />
-        <img src="https://img.shields.io/badge/Age-23-blue" alt="Âge" />
+        <img src="https://img.shields.io/badge/Âge-23-blue" alt="Âge" />
 
 </p>
 
