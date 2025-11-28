@@ -77,7 +77,7 @@
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> مهاراتي
 </h2>  
 
-<h3 align="center">💪 لغات البرمجة</h3>  
+<h3 align="center">لغات البرمجة</h3>  
 <p align="center">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -89,7 +89,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>  
 
-<h3 align="center">💪 تطوير الواجهة الأمامية</h3>  
+<h3 align="center">تطوير الواجهة الأمامية</h3>  
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -97,7 +97,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </p>  
 
-<h3 align="center">💪 تطوير الواجهة الخلفية</h3>  
+<h3 align="center">تطوير الواجهة الخلفية</h3>  
 <p align="center">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img alt="Django" src="https://img.shields.io/badge/Django-092D1F.svg?style=for-the-badge&logo=django&logoColor=white">
