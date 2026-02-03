@@ -53,6 +53,13 @@
 
 
 <hr>  
+<h2 align="center">🌍 اللغات</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/العربية-اللغة_الأم-success?style=for-the-badge&logo=googletranslate&logoColor=white" alt="العربية اللغة الأم" />
+  <img src="https://img.shields.io/badge/الإنجليزية-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="الإنجليزية B2" />
+  <img src="https://img.shields.io/badge/الفرنسية-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="الفرنسية B2" />
+</p>
 
 <h2 align="center">
     <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> إحصائيات GitHub 
