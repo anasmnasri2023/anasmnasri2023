@@ -137,13 +137,13 @@
 
 <p align="center">  
     <a href="https://www.linkedin.com/in/anasmnasri/" target="_blank">  
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanasmnasri%2F&subtitle=@أنس+المناصري&size=square" alt="linkedin">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanasmnasri%2F&subtitle=@أنس+منصري&size=square" alt="linkedin">
     </a>  
     <a href="https://www.facebook.com/share/16JnEEenY4/" target="_blank">  
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fanasmnasri&subtitle=@أنس+المناصري&size=square" alt="facebook">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fanasmnasri&subtitle=@أنس+منصري&size=square" alt="facebook">
     </a>  
     <a href="https://www.instagram.com/anessmnassri/" target="_blank">  
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fanessmnassri%2F&subtitle=@anessmnassri&size=square" alt="Instagram">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fanessmnassri%2F&subtitle=@أنس+منصري&size=square" alt="Instagram">
     </a>  
 </p>  
 
