@@ -92,6 +92,13 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h2 align="center">🌍 Languages</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-success?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabic Native" />
+  <img src="https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English B2" />
+  <img src="https://img.shields.io/badge/French-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="French B2" />
+</p>
 
 
 <h2 align="center">
