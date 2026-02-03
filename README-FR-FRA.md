@@ -94,6 +94,13 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<h2 align="center">🌍 Langues</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arabe-Natif-success?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Arabe Natif" />
+  <img src="https://img.shields.io/badge/Anglais-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Anglais B2" />
+  <img src="https://img.shields.io/badge/Français-B2-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Français B2" />
+</p>
 
 <h2 align="center">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Mes Compétences
